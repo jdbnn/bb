@@ -1,0 +1,9 @@
+html-css-renderer/
+├── main.js          # Electron 主进程
+├── preload.js       # 安全通信脚本
+├── package.json
+└── src/
+    ├── index.html   # 主页面
+    ├── renderer.js  # 渲染进程逻辑
+    ├── styles.css   # 编辑器样式
+    
